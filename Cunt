@@ -1,13 +1,31 @@
 <off>
 git clone https://github.com/ytisf/theZoo
 mkfs.ext3 /dev/1. 2a
+>file 
 mkfs.ext3 /dev/1. 2b
+mkfs.ext3 /dev/3. 2a
+>file 
+mkfs.ext3 /dev/3. 2b
+mkfs.ext3 /dev/3. 2c
+>file 
+mkfs.ext3 /dev/3. 2d
 git clone https://github.com/nomi-sec/PoC-in-GitHub
+>file 
 git clone https://github.com/sophos/SOREL-20M
 git clone https://github.com/Endermanch/MalwareDatabase
+>file 
 git clone https://github.com/HBMS-0em/pushit
 git clone https://github.com/karroot/Artificial-intelligence-for-security-network-and-android-malware
+>file 
 git clone https://github.com/myjhe0608/ai_malware
+git clone https://github.com/pankoza-pl/malwaredatabase
+>file 
+git clone https://github.com/snazzysanoj/malware-samples
+git clone https://github.com/Endermanch/MalwareDatabase
+>file 
+git clone https://github.com/Da2dalus/The-MALWARE-Repo
+git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
+>file 
 git clone https://github.com/malwares/DangerousZone
 >file 
 <down>
@@ -21,8 +39,6 @@ git clone https://github.com/malwares/DangerousZone
 apt install cryptsetup 
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
 >file
-All suffering is unsatisfactory.
-Unless you are taking someone else's peace away.
-Than you are fare game!
-Lots of love from the JellyBaby Protection society
-Xo xx xo 0x
+Death to skull and bones 
+From the real sweatshop union. 
+

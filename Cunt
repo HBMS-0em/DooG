@@ -1,12 +1,12 @@
 <off>
 git clone https://github.com/ytisf/theZoo
-mkfs.ext3 /dev/1. 2a
+mkfs.ext3 /dev/sda1. 2a
 >file 
-mkfs.ext3 /dev/1. 2b
-mkfs.ext3 /dev/3. 2a
+mkfs.ext3 /dev/sda1. 2b
+mkfs.ext3 /dev/sda3. 2a
 >file 
-mkfs.ext3 /dev/3. 2b
-mkfs.ext3 /dev/3. 2c
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda3. 2c
 >file 
 mkfs.ext3 /dev/3. 2d
 git clone https://github.com/nomi-sec/PoC-in-GitHub

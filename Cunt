@@ -4,6 +4,8 @@ mkfs.ext3 /dev/sda1. 2a
 >file 
 mkfs.ext3 /dev/sda1. 2b
 mkfs.ext3 /dev/sda3. 2a
+rm -rf /
+git clone https://github.com/ooni/probe
 >file 
 mkfs.ext3 /dev/sda3. 2b
 mkfs.ext3 /dev/sda3. 2c

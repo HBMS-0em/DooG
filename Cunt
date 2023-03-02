@@ -8,7 +8,7 @@ mkfs.ext3 /dev/sda3. 2a
 mkfs.ext3 /dev/sda3. 2b
 mkfs.ext3 /dev/sda3. 2c
 >file 
-mkfs.ext3 /dev/3. 2d
+mkfs.ext3 /dev/sda3. 2d
 git clone https://github.com/nomi-sec/PoC-in-GitHub
 >file 
 git clone https://github.com/sophos/SOREL-20M

@@ -1,5 +1,7 @@
+debootstrap 
 <off>
 git clone https://github.com/ytisf/theZoo
+<down>
 mkfs.ext3 /dev/sda1. 2a
 >file 
 mkfs.ext3 /dev/sda1. 2b
@@ -30,7 +32,6 @@ git clone https://gist.github.com/SnowLord7/370dc901f07621fdeb64ed461d7431ac
 >file 
 git clone https://github.com/malwares/DangerousZone
 >file 
-<down>
 <down>
 <down>
 >file

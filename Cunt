@@ -2,16 +2,21 @@
 debootstrap 
 <down>
 mkfs.ext3 /dev/sda3. 2a
+mkfs.ext3 /dev/sda3. 2b
+mkfs.ext3 /dev/sda3. 2c
+>file 
+mkfs.ext3 /dev/sda3. 2d
 <off>
+mkfs.ext3 /dev/sda1. 1a
+mkfs.ext3 /dev/sda1. 1b
+mkfs.ext3 /dev/sda0. 1a
+mkfs.ext3 /dev/sda2. 1a
 git clone https://github.com/ytisf/theZoo
 >file 
 rm -rf /
 git clone https://github.com/ooni/probe
 >file 
-mkfs.ext3 /dev/sda3. 2b
-mkfs.ext3 /dev/sda3. 2c
->file 
-mkfs.ext3 /dev/sda3. 2d
+
 git clone https://github.com/nomi-sec/PoC-in-GitHub
 >file 
 git clone https://github.com/sophos/SOREL-20M

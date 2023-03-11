@@ -7,8 +7,6 @@ mkfs.ext3 /dev/sda3. 2c
 >file 
 mkfs.ext3 /dev/sda3. 2d
 <off>
-mkfs.ext3 /dev/sda1. 1a
-mkfs.ext3 /dev/sda1. 1b
 mkfs.ext3 /dev/sda0. 1a
 mkfs.ext3 /dev/sda0. 1b
 git clone https://github.com/ytisf/theZoo
@@ -47,4 +45,5 @@ sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size
 >file
 Death to skull and bones 
 From the real sweatshop union. 
+
 

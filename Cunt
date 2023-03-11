@@ -1,12 +1,10 @@
 <off>
 debootstrap 
 <down>
-mkfs.ext3 /dev/sda1. 2a
+mkfs.ext3 /dev/sda3. 2a
 <off>
 git clone https://github.com/ytisf/theZoo
 >file 
-mkfs.ext3 /dev/sda1. 2b
-mkfs.ext3 /dev/sda3. 2a
 rm -rf /
 git clone https://github.com/ooni/probe
 >file 
